@@ -49,9 +49,7 @@
 <p>This project was essentially to work on github and ide skills, but more importantly about collaborating.  Working with another pier on a major project, in different settings, at different times, but also communicating so that you both can get it done and creat the best project that you could.  The hardest part of this project was definitely the communicating aspect of it, being in completely different areas not knowing what the other person is thinking and not talking face to face.  You have to put a lot of trust into what your partner is putting into the project and how that they are going about it.  You also have to talk it out and prepare everything that you need to get done and how you both are going to cooperate on all of it.  Me and my partner both talked it out very well, and collaborated well to complete this project.  There were some flaws at times, but i think it is nothing that we can't clean up we just need to talk more and understand the topic a little better to make it go even smoother.</p>
 <a href="#">https://github.com/bishoyb1251/Basketball-apocalypse.md<a><br>
 
-<!--EXAMPLE OF PREVIEW LINK-->
- <a href="http://bishoyb1251.github.io/Basketball.apocalypse.md">Preview</a><br>
-<!--EXAMPLE OF GITHUB LINK-->
+<a href="http://bishoyb1251.github.io/Basketball.apocalypse.md">Preview</a><br>
 <a href="https://github.com/bishoyb1251/Basketball-apocalypse.md.git">Github</a><br>
 
 <img src="../img/Basketball-Apocalypse.png
